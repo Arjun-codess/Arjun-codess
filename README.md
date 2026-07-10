@@ -8,8 +8,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunsinghyadav1001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunsinghyadav1001@gmail.com) 
 # 📊 GitHub Stats:
-
-![](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=false)
+<p align="center">
+![](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=false)<p>
 
 
 
@@ -19,9 +19,6 @@ Posted by waldyr.ar, modified by community. See post 'Timeline' for change histo
 Retrieved 2026-07-10, License - CC BY-SA 4.0
 -->
 
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
 
 
 
