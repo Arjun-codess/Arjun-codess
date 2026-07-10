@@ -12,6 +12,19 @@
 ![](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=false)
 
 
+
+<!--
+Source - https://stackoverflow.com/a/12118349
+Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
+Retrieved 2026-07-10, License - CC BY-SA 4.0
+-->
+
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
+
 ---
 
 
