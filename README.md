@@ -11,7 +11,7 @@
 
 ![](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=false)
 
-
+![](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=false&v=1)
 
 <!--
 Source - https://stackoverflow.com/a/12118349
