@@ -11,9 +11,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arjun-codess&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Arjun-codess&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-codess&layout=compact&theme=dark&hide_border=true" />
+</p>
 <!--
 Source - https://stackoverflow.com/a/12118349
 Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
