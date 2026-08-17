@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 
-![](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=false&v=1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 <!--
 Source - https://stackoverflow.com/a/12118349
