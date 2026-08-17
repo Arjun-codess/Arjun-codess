@@ -10,16 +10,9 @@
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Arjun-codess&theme=dark)](https://git.io/streak-stats)
-<!--
-Source - https://stackoverflow.com/a/12118349
-Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
-Retrieved 2026-07-10, License - CC BY-SA 4.0
--->
 
 
 
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
